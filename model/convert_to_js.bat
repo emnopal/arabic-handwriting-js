@@ -1,1 +1,0 @@
-tensorflowjs_converter --input_format=keras arabic_handwriting.h5 ./arabic_handwriting_js
