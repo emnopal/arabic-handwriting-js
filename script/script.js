@@ -1,3 +1,7 @@
+/*
+Most of the script is from:
+https://bensonruan.com/handwritten-digit-recognition-with-tensorflow-js/
+*/
 
 // Global Variables
 // ========================================== //
